@@ -13,7 +13,7 @@ from googletrans import Translator
 st.title("TRADUCTOR.")
 st.subheader("Escucho lo que quieres traducir.")
 
-image = Image.open('traductor (1).jpg')
+image = Image.open('traductor (1).png')
 st.image(image, width=300)
 
 with st.sidebar:
